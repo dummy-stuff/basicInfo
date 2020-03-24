@@ -176,13 +176,13 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "myinfo",
+      "name": "basicInfo",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.5"
     }
   ],
-  "generated": "2020-03-24T15:37:24.955129Z",
+  "generated": "2020-03-24T15:58:37.627055Z",
   "generator": "pub",
   "generatorVersion": "2.8.0-dev.5.0.flutter-fc3af737c7"
 }
